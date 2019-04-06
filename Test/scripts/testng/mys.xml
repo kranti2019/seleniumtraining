@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+<tests>
+  <test name="Test1">
+    <classes>
+     <class name="scripts.testng.TestNgConfig1"/>
+      <class name="scripts.testng.TestNgConfig2"/>
+       <class name="scripts.testng.FlipkartAllLinks2"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Test2">
+    <classes>
+     <class name="scripts.testng.TestNgConfig3"/>
+      <class name="scripts.testng.TestNgConfig4"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  </tests>
+  
+  
+</suite> <!-- Suite -->
